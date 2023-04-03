@@ -1,6 +1,6 @@
 # mughalk.github.io
 
-[![Logo](logo.png)](https://mughalk.github.io/)
+[![Logo](mylogo.png)](https://mughalk.github.io/)
 
 > Repo for Personal Portfolio Site:
 - [x] Best feature: picture of my cat
